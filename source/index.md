@@ -1,14 +1,17 @@
 ---
-layout: top
-title: "top"
+layout: default
+title: "kernel panic cartoon"
 date: 2015-02-28 15:35
-comments: true
+comments: false
 sharing: true
 footer: true
 ---
 
+# www.kpctoon.com
 
-## About
+![about](images/about.png)
+
+shuhei kinukawa 
 
 + Programmer (software, sound)
 + [Bassist (jazz, improvisation..)](#as_player)
