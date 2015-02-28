@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: top
 title: "top"
 date: 2015-02-28 15:35
 comments: true
