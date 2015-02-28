@@ -1,3 +1,6 @@
 [submodule ".themes/bootstrap-theme"]
 	path = .themes/bootstrap-theme
 	url = git://github.com/bkutil/bootstrap-theme.git
+[submodule ".themes/octostrap3"]
+	path = .themes/octostrap3
+	url = https://github.com/kAworu/octostrap3.git
