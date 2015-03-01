@@ -18,3 +18,32 @@ html, body {
 footer[role=contentinfo] {
     height: 60px;
 }
+
+body{
+  font-size: 20px;
+}
+h1 { font-size: 2.6em; }
+h2 { font-size: 2.3em; }
+h3 { font-size: 1.5em; }
+h4 { font-size: 1.2em; }
+
+@font-face {
+  font-family: 'fontello';
+  src: url('../assets/font/fontello.eot?81450706');
+  src: url('../assets/font/fontello.eot?81450706#iefix') format('embedded-opentype'),
+       url('../assets/font/fontello.woff?81450706') format('woff'),
+       url('../assets/font/fontello.ttf?81450706') format('truetype'),
+       url('../assets/font/fontello.svg?81450706#fontello') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.sv_icon{
+  font-family: "fontello";
+  font-size:1.0em;
+  width:1.0em;
+  display:inline-block;
+  text-align:center;
+  margin-right:1px;}
+
+
