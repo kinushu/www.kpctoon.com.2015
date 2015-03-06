@@ -23,11 +23,12 @@ navbar: Home
 #### shuhei kinukawa (@kinushu)
 
 + Programmer
-+ [Bassist, Composer](#as_player)
-    * spaghetti vabune! 
-    * topophiria tokyo
-+ [Sound and Video Engineer](#as_engineer)
-+ [USTREAM Broadcaster](#as_broadcaster)
+    * @[matsue.rb](http://matsue.rubyist.net/)
++ [Bassist, Composer](/music)
+    * @[spaghetti vabune!](http://vabune.com) 
+    * @topophiria tokyo
++ [Sound and Video Engineer](/video)
++ [USTREAM Broadcaster](/video)
 + Shimane<-(>Hyogo,Tokyo), Japan
 </div>
 

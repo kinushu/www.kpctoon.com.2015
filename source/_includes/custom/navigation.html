@@ -17,6 +17,12 @@
                 <li {% if page.navbar == 'Music' %}class="active"{% endif %}>
                     <a href="{{ root_url }}/music">Music</a>
                 </li>
+                <li {% if page.navbar == 'Video' %}class="active"{% endif %}>
+                    <a href="{{ root_url }}/video">Video</a>
+                </li>
+                <li>
+                    <a href="http://blog.kpctoon.com">Blog</a>
+                </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
                 {% if site.simple_search %}
