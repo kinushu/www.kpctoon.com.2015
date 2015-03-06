@@ -5,6 +5,7 @@ date: 2015-02-28 15:35
 comments: false
 sharing: true
 footer: true
+navbar: Home
 ---
 
 <div markdown="1" class="row">
@@ -19,10 +20,12 @@ footer: true
 
 # Kernel Panic Cartoon
 
-#### shuhei kinukawa 
+#### shuhei kinukawa (@kinushu)
 
 + Programmer
 + [Bassist, Composer](#as_player)
+    * spaghetti vabune! 
+    * topophiria tokyo
 + [Sound and Video Engineer](#as_engineer)
 + [USTREAM Broadcaster](#as_broadcaster)
 + Shimane<-(>Hyogo,Tokyo), Japan
