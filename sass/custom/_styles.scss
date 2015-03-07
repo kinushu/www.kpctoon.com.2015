@@ -16,6 +16,7 @@ html, body {
 
 /* Set the fixed height of the footer here */
 footer[role=contentinfo] {
+    margin-top: 50px;
     height: 60px;
 }
 
@@ -26,6 +27,7 @@ h1 { font-size: 2.6em; }
 h2 { font-size: 2.3em; }
 h3 { font-size: 1.5em; }
 h4 { font-size: 1.2em; }
+h5 { font-size: 1.1em; }
 
 @font-face {
   font-family: 'fontello';
@@ -36,6 +38,22 @@ h4 { font-size: 1.2em; }
        url('../assets/font/fontello.svg?81450706#fontello') format('svg');
   font-weight: normal;
   font-style: normal;
+}
+
+.row{
+  margin-right: 0px;
+  margin-left: 0px;
+  
+}
+
+article{
+  border: dotted;
+  margin-bottom: 50px;
+
+  border-left-width: 0px;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 1px;
 }
 
 .sv_icon{

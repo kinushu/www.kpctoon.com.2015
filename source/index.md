@@ -9,14 +9,14 @@ navbar: Home
 ---
 
 <div markdown="1" class="row">
-<div markdown="1" class="col-md-4">
+<div markdown="1" class="col-md-6">
 
 <div markdown="1" class="text-center">
 ![about](images/about.png)
 </div>
 </div>
 
-<div markdown="1" class="col-md-8">
+<div markdown="1" class="col-md-6">
 
 # Kernel Panic Cartoon
 
