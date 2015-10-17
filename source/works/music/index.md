@@ -14,7 +14,7 @@ page.sidebar: false
 <article>
 <div markdown="1" class="row">
 
-+ ベース演奏中心に作曲、エンジニアとしても活動しています。
++ ベース演奏中心に作曲、エンジニアなども。
 + Jazz,Improvisation,Guitar Pop,Rock...
 + PGM 5string(Low-B) Fretless Electric Bass, Wood Bass
 + Ableton Live, Avid Pro tools, Presonus Studio One
@@ -30,7 +30,7 @@ page.sidebar: false
 <div markdown="1" class="col-md-6">
 
 + This is Guitar Pop\!
-+ Bassist (Regular support)(2010-)
++ Bassist (2010-)
 + Recording ['Demo Songs; Ivy' - 'ivy','放課後エイリアン'](https://soundcloud.com/vabune/ivy)　
 
 </div>
@@ -68,28 +68,7 @@ page.sidebar: false
 </div>
 </article>
 
-<article>
-<div markdown="1" class="row">
 
-#### [Sakaguchi Mitsuhisa / ARCHITECNICA(2010)](http://enjyaqu.main.jp)
-
-<div markdown="1" class="col-md-6">
-
-+ Keyboardist ['Sakaguchi Mitsuhisa(坂口光央)'](http://enjyaqu.main.jp) 's Solo Overdub Compositions
-+ Recording, Mixing Engineer
-
-</div>
-<div markdown="1" class="col-md-6">
-
-[Amazon](http://www.amazon.co.jp/ARCHITECNICA-%E5%9D%82%E5%8F%A3%E5%85%89%E5%A4%AE/dp/B007ODXXIC)
-
-<a href="http://www.amazon.co.jp/ARCHITECNICA-%E5%9D%82%E5%8F%A3%E5%85%89%E5%A4%AE/dp/B007ODXXIC">
-<img src="http://media.tumblr.com/tumblr_lsypaqtNMX1qjsa49.jpg" height="150">
-</a>
-
-</div>
-</div>
-</article>
 
 <article>
 <div markdown="1" class="row">

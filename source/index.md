@@ -18,9 +18,11 @@ navbar: Home
 
 <div markdown="1" class="col-md-6">
 
-# Kernel Panic Cartoon
-
-#### shuhei kinukawa (@kinushu)
+<h1>
+Kernel Panic<br>
+Cartoon / Shuhei<br>
+Kinukawa
+</h1>
 
 + Programmer, Bassist, Engineer
 + <span class="sv_icon">t</span> twitter:[@kinushu](http://twitter.com/kinushu)

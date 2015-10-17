@@ -15,23 +15,30 @@ navbar: Home
 </div>
 
 <div class="row">
-<div markdown="1" class="col-md-8 col-md-offset-2">
+<div markdown="1" class="col-md-6">
+#### 絹川修平 / shuhei kinukawa (@kinushu)
+</div>
+</div>
 
-#### shuhei kinukawa (@kinushu)
+<div class="row">
+<div markdown="1" class="col-md-4">
 
 + Programmer
-+ [Bassist, Composer](/music)
-+ [Sound and Video Engineer](/video)
++ Bassist
++ (Sound and Video) Engineer
 + team
     * [spaghetti vabune!](http://vabune.com) 
     * topophiria tokyo
 + Shimane<-(>Hyogo,Tokyo), Japan
 
+</div>
+<div markdown="1" class="col-md-8" style="font-size: 0.8em;">
+
 + ジャズ、即興音楽をルーツとして、色々な現場でベースを演奏。
-+ また音響、映像、プログラミングの素養を持つエンジニアとしても活動。
-+ 2010年よりギターポップバンド spaghetti vabune! のベース担当
++ また音響、映像、プログラミングの素養を持つエンジニアとしても活動しています。
++ 2010年よりギターポップバンド spaghetti vabune! のベース担当。
 + 2000年頃より映像制作団体 Topophiria Tokyo (TEAM HOSOGI)の音部門（作曲から音響編集まで）を担当。
-+ 普段はプログラマとして働きながら制作活動しています。
++ プログラマ、エンジニアとして働きながら制作活動しています。
 + 島根県出身、兵庫、東京を経て2015年から島根に戻りました。
 
 </div>
