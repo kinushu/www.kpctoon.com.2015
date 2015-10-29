@@ -14,8 +14,8 @@ page.sidebar: false
 <article>
 <div markdown="1" class="row">
 
-+ <a href="/works/music/">Music works / 演奏活動について</a>
-+ <a href="/works/engineer/">Engineer works / 映像、音響エンジニア活動について</a>
++ <a href="/works/music/">Music Works / 演奏活動について</a>
++ <a href="/works/engineer/">Engineer Works / 映像、音響エンジニア活動について</a>
 
 </div>
 </article>

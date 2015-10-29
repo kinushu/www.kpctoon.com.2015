@@ -21,6 +21,14 @@ page.sidebar: false
     * USTREAM, CamTwist, Soundflower... 
 
 </div>
+
+
+<div markdown="1" class="row">
+
++ <a href="/works/music/">Music Works / 演奏活動についてはこちら</a>
+
+</div>
+
 </article>
 
 <article>

@@ -20,7 +20,15 @@ page.sidebar: false
 + Ableton Live, Avid Pro tools, Presonus Studio One
 
 </div>
+
+<div markdown="1" class="row">
+
++ <a href="/works/engineer/">Engineer Works / 映像、音響エンジニア活動についてはこちら</a>
+
+</div>
+
 </article>
+
 
 <article>
 <div markdown="1" class="row">
