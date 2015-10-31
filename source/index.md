@@ -25,8 +25,8 @@ Kinukawa
 </h1>
 
 + Programmer, Bassist, Engineer
-+ <span class="sv_icon">t</span> twitter:[@kinushu](http://twitter.com/kinushu)
-+ <span class="sv_icon">b</span> blog:   <http://blog.kpctoon.com/>
++ <span class="sv_icon">t</span> : [@kinushu](http://twitter.com/kinushu)
++ <span class="sv_icon">b</span> : <http://blog.kpctoon.com/>
 
 </div>
 
