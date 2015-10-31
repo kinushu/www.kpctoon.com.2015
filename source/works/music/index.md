@@ -77,6 +77,29 @@ page.sidebar: false
 </article>
 
 
+<article>
+<div markdown="1" class="row">
+
+#### littro rettle / lime mint (2014)
+
+<div markdown="1" class="col-md-6">
+
++ ベース録音で参加しました。
++ [iTunesでの購入リンク](https://itunes.apple.com/jp/album/lime-mint-single/id910803524)
++ [紹介記事](http://blog.kpctoon.com/2014/08/22/limemint/)
+
+</div>
+<div class="col-md-6">
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/163982842&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+</iframe>
+
+</div>
+</div>
+</article>
+
+
 
 <article>
 <div markdown="1" class="row">
