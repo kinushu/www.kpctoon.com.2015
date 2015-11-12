@@ -6,7 +6,7 @@ Dotenv.load
 lock '3.4.0'
 
 set :application, 'www.kpctoon.com.2015'
-set :repo_url, 'git@github.com:kinushu/www.kpctoon.com.2015.git'
+set :repo_url, 'https://github.com/kinushu/www.kpctoon.com.2015.git'
 
 # Default value for keep_releases is 5
 set :keep_releases, 5
