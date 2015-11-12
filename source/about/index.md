@@ -10,7 +10,7 @@ navbar: Home
 
 <div class="row">
 <div markdown="1" class="text-center">
-![about](images/about.png)
+![about](/images/about.png)
 </div>
 </div>
 
