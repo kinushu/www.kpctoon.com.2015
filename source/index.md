@@ -24,10 +24,9 @@ Cartoon / Shuhei<br>
 Kinukawa
 </h1>
 
-+ Programmer, Bassist, Engineer
++ Programmer / Bassist / Engineer
 + <span class="sv_icon">t</span> : [@kinushu](http://twitter.com/kinushu)
 + <span class="sv_icon">b</span> : <http://blog.kpctoon.com/>
-
 </div>
 
 </div>
